@@ -1,0 +1,16 @@
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\bin\Debug\BDVOProject.exe.config
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\bin\Debug\BDVOProject.exe
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\bin\Debug\BDVOProject.pdb
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.csproj.AssemblyReference.cache
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.ChargingStation.resources
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.ControlPanel.resources
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.Properties.Resources.resources
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.csproj.GenerateResource.cache
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.csproj.CoreCompileInputs.cache
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.exe
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.pdb
+C:\Users\tlhyl\Masaüstü\junk\BDVOProject\obj\Debug\BDVOProject.ElectricVehicle.resources
+C:\Users\cevah\Desktop\CSS-Charging-Simulation\BDVOProject\obj\Debug\BDVOProject.csproj.AssemblyReference.cache
+C:\Users\cevah\Desktop\CSS-Charging-Simulation\BDVOProject\obj\Debug\BDVOProject.exe
+C:\Users\cevah\Desktop\CSS-Charging-Simulation\BDVOProject\obj\Debug\BDVOProject.pdb
