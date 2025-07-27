@@ -33,7 +33,7 @@ Formal Languages and Automata dersi kapsamında:
 
 ## 📚 Ders Kapsamı
 
-Bu proje, otomata kuramı ile iletişim protokolleri arasında bağlantı kurmayı hedefler. CCS protokolü, DFA yapısına dönüştürülerek giriş/çıkış durumları, geçiş fonksiyonları ve hata toleransı analiz edilmiştir.
+Bu proje, otomata kuramı ile iletişim protokolleri arasında bağlantı kurmayı hedefler. CCS protokolü, DFA yapısına dönüştürülerek giriş/çıkış durumları, geçiş fonksiyonları ve hata toleransı analiz edilmiştir..
 
 ## 🔗 Kaynaklar
 
